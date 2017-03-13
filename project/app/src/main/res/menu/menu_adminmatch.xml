@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="scodun.com.test.MainActivity">
+    <item
+        android:id="@+id/Match_view"
+        android:orderInCategory="100"
+        android:title="@string/Match_view"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/match_update"
+        android:orderInCategory="100"
+        android:title="@string/Match_update"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/match_add"
+        android:orderInCategory="100"
+        android:title="@string/Match_add"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Match_remove"
+        android:orderInCategory="100"
+        android:title="@string/Match_remove"
+        app:showAsAction="never" />
+</menu>

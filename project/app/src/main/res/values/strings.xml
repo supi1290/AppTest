@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">06Soccer</string>
+    <string name="action_settings">Profile</string>
+    <string name="show_match">View</string>
+    <string name="Profilebtn">Profile</string>
+    <string name="addplayerbtn">Add</string>
+    <string name="removeplayerbtn">Remove</string>
+    <string name="Match_view">View</string>
+    <string name="Match_update">Update</string>
+    <string name="Match_add">Add</string>
+    <string name="Match_remove">Remove</string>
+</resources>
